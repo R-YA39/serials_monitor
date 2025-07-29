@@ -23,7 +23,7 @@
 1. 克隆或下载本项目代码
 2. 安装依赖库：
    ```bash
-   pip install PyQt5 matplotlib pyserial numpy
+   pip install -r requirements.txt
    ```
 3. 运行主程序：
    ```bash
